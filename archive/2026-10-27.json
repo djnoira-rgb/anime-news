@@ -3,12 +3,28 @@
   "note": "",
   "items": [
     {
-      "id": "2026-10-27-mappa",
-      "category": "pickup",
-      "title": "MAPPA社長、海外ファンの影響は大きいが「流されすぎない」",
-      "summary": "ドイツのAnimagiCで、15周年を迎えたMAPPAの大塚学社長が取材に応じた。海外から学ぶものと日本のアニメとして守るものを選び分けているという。",
-      "sourceName": "Anime Corner",
-      "url": "https://animecorner.me/interview-mappa-ceo-manabu-otsuka-and-director-kaori-makita-on-the-studios-15th-anniversary-and-growth/"
+      "id": "2026-10-27-bleach",
+      "category": "other",
+      "title": "TVアニメ『BLEACH』が完結、千年血戦篇の最終回が放送",
+      "summary": "10月26日深夜に最終話「DEATH＆STRAWBERRY」が放送され、2004年から続いたTVシリーズが幕を閉じた。「Number One」を使ったスペシャルエンディングでは、10年後の一勇と苺花の姿も描かれた。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1793028701"
+    },
+    {
+      "id": "2026-10-27-dualshadow",
+      "category": "other",
+      "title": "プリキュアのスピンオフ『デュアルシャドウ』が2027年にTVアニメ化",
+      "summary": "副題は「Precure Villain Heroines」。オリジナルキャラクターとオリジナルストーリーで描かれ、ダークな雰囲気の超ティザーPVが公開された。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1792991037"
+    },
+    {
+      "id": "2026-10-27-kaiju8",
+      "category": "other",
+      "title": "『怪獣8号』完結編が2027年に劇場版で公開",
+      "summary": "Production I.Gとスタジオカラーの制作。美術監督・木村真二さん描き下ろしのティザービジュアルも公開された。",
+      "sourceName": "アニメ！アニメ！",
+      "url": "https://animeanime.jp/article/2026/10/26/104214.html"
     },
     {
       "id": "2026-10-27-akane",
@@ -19,12 +35,52 @@
       "url": "https://animeanime.jp/article/2026/10/26/104204.html"
     },
     {
-      "id": "2026-10-27-kaiju8",
+      "id": "2026-10-27-mappa",
+      "category": "pickup",
+      "title": "MAPPA社長、海外ファンの影響は大きいが「流されすぎない」",
+      "summary": "ドイツのAnimagiCで、15周年を迎えたMAPPAの大塚学社長が取材に応じた。海外から学ぶものと日本のアニメとして守るものを選び分けているという。",
+      "sourceName": "Anime Corner",
+      "url": "https://animecorner.me/interview-mappa-ceo-manabu-otsuka-and-director-kaori-makita-on-the-studios-15th-anniversary-and-growth/"
+    },
+    {
+      "id": "2026-10-27-kantei",
       "category": "other",
-      "title": "『怪獣8号』完結編が2027年に劇場版で公開",
-      "summary": "Production I.Gとスタジオカラーの制作。美術監督・木村真二さん描き下ろしのティザービジュアルも公開された。",
+      "title": "『鑑定スキル』第3期、フジミヤ家編の新PVと追加キャスト",
+      "summary": "リクヤ役に宮田俊哉さん、マイカ役に伊瀬茉莉也さん、タカオ役に大泊貴揮さん。新ビジュアルと第3弾PVも公開された。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1792986215"
+    },
+    {
+      "id": "2026-10-27-azly",
+      "category": "other",
+      "title": "『悠久の愚者アズリーの、賢者のすゝめ』メインビジュアル公開",
+      "summary": "2027年1月放送開始のTVアニメ。新メインビジュアルとあわせて、リナ役の藤寺美徳さんが発表された。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1793005178"
+    },
+    {
+      "id": "2026-10-27-kusuriya",
+      "category": "other",
+      "title": "『薬屋のひとりごと』と『パズドラ』が初コラボ",
+      "summary": "11月4日まで開催。猫猫や壬氏、羅半に加えて、猫猫＆壬氏などのペアキャラも登場し、謎解きダンジョンも用意されている。",
       "sourceName": "アニメ！アニメ！",
-      "url": "https://animeanime.jp/article/2026/10/26/104214.html"
+      "url": "https://animeanime.jp/article/2026/10/26/104228.html"
+    },
+    {
+      "id": "2026-10-27-animate",
+      "category": "other",
+      "title": "九州最大のアニメイト「アニメイトラシック福岡天神」が開店",
+      "summary": "10月24日に天神のラシック8階にオープン。カフェや展示スペースを備え、11月20日からは『文豪ストレイドッグス』の展示も予定されている。",
+      "sourceName": "アニメ！アニメ！",
+      "url": "https://animeanime.jp/article/2026/10/26/104223.html"
+    },
+    {
+      "id": "2026-10-27-seed",
+      "category": "other",
+      "title": "『SEED FREEDOM ZERO』のインフィニットジャスティスがMETAL ROBOT魂に",
+      "summary": "2027年1月発売で19,800円（税込）。新規シールド「ハヤトノタテ」やビームエフェクトが付く。予約は11月2日から。",
+      "sourceName": "アニメ！アニメ！",
+      "url": "https://animeanime.jp/article/2026/10/26/104209.html"
     }
   ]
 }
