@@ -1,78 +1,126 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "note": "",
   "items": [
     {
-      "id": "2026-10-30-precure-box",
+      "id": "2026-10-31-hiiragi",
       "category": "other",
-      "title": "『映画名探偵プリキュア！』興収13億円突破、単独作品で歴代1位",
-      "summary": "10月28日時点で興収13億1000万円、動員103万人。9月18日の公開から勢いが続き、『わんだふるぷりきゅあ！ざ・むーびー！』を上回った。",
+      "title": "『柊さんちの吸血事情』TVアニメ化が決定",
+      "summary": "別冊少年マガジン連載のホームラブコメ。ハロウィーンに合わせて、吸血鬼一家の次女・雪枝が翔太の首元に迫るスーパーティザービジュアルが公開された。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261029dog00m200077000a.html"
+      "url": "https://mantan-web.jp/article/20261030dog00m200061000a.html"
     },
     {
-      "id": "2026-10-30-mahoyo",
+      "id": "2026-10-31-destiny",
       "category": "other",
-      "title": "劇場版『魔法使いの夜』は11月20日公開、初日からIMAX版も",
-      "summary": "ufotable制作のTYPE-MOON作品。遊園地で魔術を繰り広げる青子と有珠を描いたIMAX版ビジュアルが公開された。",
+      "title": "『Destiny Unchain Online』TVアニメは2027年放送、主演は長谷川育美さん",
+      "summary": "吸血鬼の美少女としてVRMMOにログインしてしまう主人公クリムの冒険を描く。制作はVoil、監督は初見浩一さん。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261029dog00m200070000a.html"
+      "url": "https://mantan-web.jp/article/20261030dog00m200018000a.html"
     },
     {
-      "id": "2026-10-30-yamato",
+      "id": "2026-10-31-mercedes",
       "category": "other",
-      "title": "『ヤマトよ永遠に REBEL3199』最終章が10月30日公開、ヤマトナオミチ監督インタビュー",
-      "summary": "「第七章 虹色の輪廻」でシリーズが完結。監督が、模型を3Dスキャンして手描き背景になじませた工夫や、1974年版への敬意を語っている。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261028dog00m200002000a.html"
+      "title": "『欠けた月のメルセデス』2027年1月放送、第2弾PVと追加キャスト",
+      "summary": "諏訪部順一さん、茅野愛衣さんら4人が新たに出演。メルセデス役は長瀬アンナさんで、制作はTeddy。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/10/30/mercedes-and-the-waning-moon-unveils-new-trailer-adds-4-new-cast-members/"
     },
     {
-      "id": "2026-10-30-oishinbo",
-      "category": "other",
-      "title": "『新 美味しんぼ』追加キャストに飛田展男さんら6人",
-      "summary": "2027年放送のTVアニメで、約35年ぶりのTVシリーズ。山岡士郎役は阿座上洋平さん、海原雄山役は大塚明夫さん。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261028dog00m200079000a.html"
+      "id": "2026-10-31-aobuta-na",
+      "category": "pickup",
+      "title": "劇場版『青ブタ ディアフレンド』北米で2027年2月に劇場公開",
+      "summary": "2月21・23・24日の3日間限定でアメリカとカナダで上映。字幕版と英語吹替版が用意される。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/10/30/crunchyroll-announces-north-american-theater-dates-for-rascal-does-not-dream-of-a-dear-friend-in-february-2027/"
     },
     {
-      "id": "2026-10-30-twst",
+      "id": "2026-10-31-digimon",
       "category": "other",
-      "title": "『ツイステ』アニメ新章「エピソード オブ サバナクロー」が12月23日配信",
-      "summary": "Disney＋で独占配信。全8話で毎週水曜に1話ずつ公開される。",
+      "title": "『デジモンアドベンチャー』細田守さん演出の第21話が11月1日に放送",
+      "summary": "30周年企画でファン投票上位の回をリマスター放送。細田さんがTVシリーズで演出を手がけた唯一の回「コロモン東京大激突！」が登場する。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261028dog00m200057000a.html"
+      "url": "https://mantan-web.jp/article/20261030dog00m200094000a.html"
     },
     {
-      "id": "2026-10-30-walkure",
+      "id": "2026-10-31-silentservice",
       "category": "other",
-      "title": "『マクロスΔ』ワルキューレが約4年ぶりに復活、10周年シングルを2027年3月発売",
-      "summary": "「ワルキューレは負けられない」など4曲を収録。初回限定盤には根元歳三さん脚本のオーディオドラマも付く。",
+      "title": "アニメ『沈黙の艦隊』がアニメ化30周年でHDリマスター",
+      "summary": "1996年のTVスペシャルとOVA2作をオリジナルネガからリマスター。Blu-rayは2027年3月26日発売。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261029dog00m200059000a.html"
+      "url": "https://mantan-web.jp/article/20261029dog00m200062000a.html"
     },
     {
-      "id": "2026-10-30-seedfz",
+      "id": "2026-10-31-91days",
       "category": "other",
-      "title": "『SEED FREEDOM ZERO』公開記念、ららぽーと福岡のνガンダムがライトアップ",
-      "summary": "11月27日から特別ライトアップ。鈴村健一さんと小野大輔さんが登場するイベントも開かれる。映画は2027年1月15日公開。",
+      "title": "『91Days』10周年記念で全12話の舞台あいさつ付き上映会",
+      "summary": "11月15日と20日に新宿ピカデリーで開催。鏑木ひろ監督らが登壇し、初期のプロット集が配られる。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261029dog00m200055000a.html"
+      "url": "https://mantan-web.jp/article/20261029dog00m200027000a.html"
     },
     {
-      "id": "2026-10-30-kusuriya53",
+      "id": "2026-10-31-oishinbo-song",
       "category": "other",
-      "title": "『薬屋のひとりごと』第53話「白蛇仙女」の先行カット",
-      "summary": "10月30日放送。猫猫が羅半たちと噂の仙女の見せ物へ向かい、壇上で仙術を目の当たりにする。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261029dog00m200047000a.html"
+      "title": "『新 美味しんぼ』の主題歌が発表",
+      "summary": "2027年放送のTVアニメ。東西新聞の社員役のキャストとあわせて、オープニングとエンディングの主題歌が発表された。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127753/"
     },
     {
-      "id": "2026-10-30-precure-talk",
+      "id": "2026-10-31-polepri",
       "category": "other",
-      "title": "『映画名探偵プリキュア！』スタッフトーク付き応援上映で制作資料を公開",
-      "summary": "上田華子監督らが登壇し、かりんたちのキャラクターデザイン案やティザービジュアルの没案を紹介した。",
+      "title": "『ポールプリンセス!!』新作は2027年1月29日上映",
+      "summary": "フルCGのポールダンスショー作品の新作で、新キャラクターも登場する。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261029dog00m200080000a.html"
+      "url": "https://mantan-web.jp/article/20261030dog00m200033000a.html"
+    },
+    {
+      "id": "2026-10-31-yamato-stage",
+      "category": "other",
+      "title": "『ヤマトよ永遠に REBEL3199』最終章の公開初日舞台あいさつ",
+      "summary": "10月30日公開の「第七章」で、約2年続いたシリーズが完結した。",
+      "sourceName": "MANTANWEB",
+      "url": "https://mantan-web.jp/article/20261030dog00m200118000a.html"
+    },
+    {
+      "id": "2026-10-31-animenoba",
+      "category": "other",
+      "title": "TBSの新イベント「アニメの場」に宮田俊哉さん、佐久間大介さんが出演",
+      "summary": "会場にはエヴァ初号機の巨大フォトスポットも設置される。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127740/"
+    },
+    {
+      "id": "2026-10-31-kusuriya-op",
+      "category": "other",
+      "title": "『薬屋のひとりごと』第3期のオープニングCMが3週連続で放送",
+      "summary": "第3期のオープニング曲を使ったCMが3週にわたって流れる。",
+      "sourceName": "MANTANWEB",
+      "url": "https://mantan-web.jp/article/20261030dog00m200060000a.html"
+    },
+    {
+      "id": "2026-10-31-haikyu",
+      "category": "other",
+      "title": "『ハイキュー!!』原画展の第3弾が開幕",
+      "summary": "古舘春一さんの描き下ろしイラストも展示される。",
+      "sourceName": "MANTANWEB",
+      "url": "https://mantan-web.jp/article/20261030dog00m200075000a.html"
+    },
+    {
+      "id": "2026-10-31-oshi-ranking",
+      "category": "other",
+      "title": "アニメ好きが“本当に推す”秋アニメランキング",
+      "summary": "『魔法少女育成計画restart』と『薬屋のひとりごと』が首位を争い、『桃源暗鬼』の主題歌も話題になっている。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/column/animehack_editors/127752/"
+    },
+    {
+      "id": "2026-10-31-cmoa",
+      "category": "other",
+      "title": "電子書籍サイト「コミックシーモア」が一部サービスを再開",
+      "summary": "不正アクセスによる会員情報の一部流出で約2週間停止していたが、10月29日から一部の利用を再開した。",
+      "sourceName": "アニメ！アニメ！",
+      "url": "https://animeanime.jp/article/2026/10/30/104339.html"
     }
   ]
 }
