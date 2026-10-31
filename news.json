@@ -1,126 +1,118 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "note": "",
   "items": [
     {
-      "id": "2026-10-31-hiiragi",
+      "id": "2026-11-01-deathstranding",
       "category": "other",
-      "title": "『柊さんちの吸血事情』TVアニメ化が決定",
-      "summary": "別冊少年マガジン連載のホームラブコメ。ハロウィーンに合わせて、吸血鬼一家の次女・雪枝が翔太の首元に迫るスーパーティザービジュアルが公開された。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200061000a.html"
+      "title": "アニメ『DEATH STRANDING ISOLATIONS』シリーズ構成・脚本は冲方丁さん",
+      "summary": "小島秀夫さんのゲームと同じ世界のもうひとつの物語を描く新作シリーズ。2027年にディズニープラスで独占配信予定で、ティザー映像が公開された。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127764/"
     },
     {
-      "id": "2026-10-31-destiny",
+      "id": "2026-11-01-vanguard",
       "category": "other",
-      "title": "『Destiny Unchain Online』TVアニメは2027年放送、主演は長谷川育美さん",
-      "summary": "吸血鬼の美少女としてVRMMOにログインしてしまう主人公クリムの冒険を描く。制作はVoil、監督は初見浩一さん。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200018000a.html"
-    },
-    {
-      "id": "2026-10-31-mercedes",
-      "category": "other",
-      "title": "『欠けた月のメルセデス』2027年1月放送、第2弾PVと追加キャスト",
-      "summary": "諏訪部順一さん、茅野愛衣さんら4人が新たに出演。メルセデス役は長瀬アンナさんで、制作はTeddy。",
+      "title": "新作TVアニメ『カードファイト!! ヴァンガード ベールリフト』が2027年放送",
+      "summary": "伊藤彰さんがキャラクター原案とストーリー原案を担当し、制作はキネマシトラス。詳細は12月7日に発表される。",
       "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/10/30/mercedes-and-the-waning-moon-unveils-new-trailer-adds-4-new-cast-members/"
+      "url": "https://anitrendz.net/news/2026/10/31/cardfight-vanguard-announces-veil-lift-anime-2nd-season-of-ghost-meets-gal/"
     },
     {
-      "id": "2026-10-31-aobuta-na",
+      "id": "2026-11-01-rakuen",
+      "category": "other",
+      "title": "『楽園追放 心のレゾナンス』完成披露、虚淵玄さんらが登壇",
+      "summary": "約12年ぶりの続編で11月13日公開。佐倉綾音さんら声優陣と水島精二監督が登壇し、4DX・ドルビーシネマ版の上映も決まった。",
+      "sourceName": "MANTANWEB",
+      "url": "https://mantan-web.jp/article/20261031dog00m200022000a.html"
+    },
+    {
+      "id": "2026-11-01-bebop",
+      "category": "other",
+      "title": "『COWBOY BEBOP 天国の扉』4Kリマスター版の公開記念舞台あいさつ",
+      "summary": "渡辺信一郎監督と山寺宏一さんが登壇し、スパイクの声が人気の理由だという話や、ゲストキャラ誕生の裏話を語った。",
+      "sourceName": "MANTANWEB",
+      "url": "https://mantan-web.jp/article/20261031dog00m200010000a.html"
+    },
+    {
+      "id": "2026-11-01-kuromi",
+      "category": "other",
+      "title": "サンリオのクロミが主役の映画が2027年に公開",
+      "summary": "クロミを主人公にした映画の公開が発表され、メッセージビデオも公開された。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127763/"
+    },
+    {
+      "id": "2026-11-01-romelia",
+      "category": "other",
+      "title": "『ロメリア戦記』第2クールは2027年4月放送、EDは下野紘さん",
+      "summary": "10月から放送中の作品の分割2クール目。制作はAtra。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/10/31/romelia-war-chronicle-2nd-cour-debuts-in-april-2027-announces-hiro-shimono-ending-theme/"
+    },
+    {
+      "id": "2026-11-01-aobuta-song",
       "category": "pickup",
-      "title": "劇場版『青ブタ ディアフレンド』北米で2027年2月に劇場公開",
-      "summary": "2月21・23・24日の3日間限定でアメリカとカナダで上映。字幕版と英語吹替版が用意される。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/10/30/crunchyroll-announces-north-american-theater-dates-for-rascal-does-not-dream-of-a-dear-friend-in-february-2027/"
-    },
-    {
-      "id": "2026-10-31-digimon",
-      "category": "other",
-      "title": "『デジモンアドベンチャー』細田守さん演出の第21話が11月1日に放送",
-      "summary": "30周年企画でファン投票上位の回をリマスター放送。細田さんがTVシリーズで演出を手がけた唯一の回「コロモン東京大激突！」が登場する。",
+      "title": "『青ブタ』完結記念曲「不可思議のカルテ finale」配信開始",
+      "summary": "歴代ヒロインたちが歌う完結記念曲。湘南・横浜を舞台にヒロインたちが登場するMVも公開された。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200094000a.html"
+      "url": "https://mantan-web.jp/article/20261030dog00m200123000a.html"
     },
     {
-      "id": "2026-10-31-silentservice",
+      "id": "2026-11-01-jujutsu",
       "category": "other",
-      "title": "アニメ『沈黙の艦隊』がアニメ化30周年でHDリマスター",
-      "summary": "1996年のTVスペシャルとOVA2作をオリジナルネガからリマスター。Blu-rayは2027年3月26日発売。",
+      "title": "『呪術廻戦』死滅回游 前編の描き下ろしキャラクタービジュアル13種",
+      "summary": "虎杖や伏黒、乙骨と里香、宿儺など、前編で活躍したキャラの新しい表情を描いたビジュアルが公開された。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261029dog00m200062000a.html"
+      "url": "https://mantan-web.jp/article/20261030dog00m200098000a.html"
     },
     {
-      "id": "2026-10-31-91days",
+      "id": "2026-11-01-isshiki",
       "category": "other",
-      "title": "『91Days』10周年記念で全12話の舞台あいさつ付き上映会",
-      "summary": "11月15日と20日に新宿ピカデリーで開催。鏑木ひろ監督らが登壇し、初期のプロット集が配られる。",
+      "title": "『一式さんは恋を知りたい。』OPテーマはえなこさん",
+      "summary": "オープニングテーマを使った新しいPVが公開された。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261029dog00m200027000a.html"
+      "url": "https://mantan-web.jp/article/20261031dog00m200026000a.html"
     },
     {
-      "id": "2026-10-31-oishinbo-song",
+      "id": "2026-11-01-grotesque",
+      "category": "pickup",
+      "title": "『GROTESQQQUE -グロテスク-』錦織敦史監督インタビュー",
+      "summary": "11月6日公開のオリジナル劇場アニメについて、監督が作品づくりを語っている。",
+      "sourceName": "MANTANWEB",
+      "url": "https://mantan-web.jp/article/20261010dog00m200000000a.html"
+    },
+    {
+      "id": "2026-11-01-billy",
       "category": "other",
-      "title": "『新 美味しんぼ』の主題歌が発表",
-      "summary": "2027年放送のTVアニメ。東西新聞の社員役のキャストとあわせて、オープニングとエンディングの主題歌が発表された。",
+      "title": "生田斗真さんがディズニー最新作『ビリーと魔法のはじまり』の声優に",
+      "summary": "ハロウィンイベントで日本版声優への起用が発表された。",
       "sourceName": "アニメハック",
-      "url": "https://anime.eiga.com/news/127753/"
+      "url": "https://anime.eiga.com/news/127750/"
     },
     {
-      "id": "2026-10-31-polepri",
+      "id": "2026-11-01-kazewo",
       "category": "other",
-      "title": "『ポールプリンセス!!』新作は2027年1月29日上映",
-      "summary": "フルCGのポールダンスショー作品の新作で、新キャラクターも登場する。",
+      "title": "『風を継ぐもの』に追加キャスト、成井豊さんのノベライズも発売決定",
+      "summary": "アニメの追加キャストが発表され、成井豊さん書き下ろしの小説版も出る。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200033000a.html"
+      "url": "https://mantan-web.jp/article/20261030dog00m200062000a.html"
     },
     {
-      "id": "2026-10-31-yamato-stage",
+      "id": "2026-11-01-shimono",
       "category": "other",
-      "title": "『ヤマトよ永遠に REBEL3199』最終章の公開初日舞台あいさつ",
-      "summary": "10月30日公開の「第七章」で、約2年続いたシリーズが完結した。",
+      "title": "下野紘さんがアーティスト活動を再開",
+      "summary": "声優の下野紘さんが、アーティストとしての活動を再開すると発表した。",
       "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200118000a.html"
+      "url": "https://mantan-web.jp/article/20261031dog00m200024000a.html"
     },
     {
-      "id": "2026-10-31-animenoba",
+      "id": "2026-11-01-seizu",
       "category": "other",
-      "title": "TBSの新イベント「アニメの場」に宮田俊哉さん、佐久間大介さんが出演",
-      "summary": "会場にはエヴァ初号機の巨大フォトスポットも設置される。",
+      "title": "東京国際映画祭で上映、制作10年のシンガポールのアニメ『魔法の星図』",
+      "summary": "映画と美術の境界を超えた作品で、三上寛さんの楽曲を使った理由を監督が語っている。",
       "sourceName": "アニメハック",
-      "url": "https://anime.eiga.com/news/127740/"
-    },
-    {
-      "id": "2026-10-31-kusuriya-op",
-      "category": "other",
-      "title": "『薬屋のひとりごと』第3期のオープニングCMが3週連続で放送",
-      "summary": "第3期のオープニング曲を使ったCMが3週にわたって流れる。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200060000a.html"
-    },
-    {
-      "id": "2026-10-31-haikyu",
-      "category": "other",
-      "title": "『ハイキュー!!』原画展の第3弾が開幕",
-      "summary": "古舘春一さんの描き下ろしイラストも展示される。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200075000a.html"
-    },
-    {
-      "id": "2026-10-31-oshi-ranking",
-      "category": "other",
-      "title": "アニメ好きが“本当に推す”秋アニメランキング",
-      "summary": "『魔法少女育成計画restart』と『薬屋のひとりごと』が首位を争い、『桃源暗鬼』の主題歌も話題になっている。",
-      "sourceName": "アニメハック",
-      "url": "https://anime.eiga.com/news/column/animehack_editors/127752/"
-    },
-    {
-      "id": "2026-10-31-cmoa",
-      "category": "other",
-      "title": "電子書籍サイト「コミックシーモア」が一部サービスを再開",
-      "summary": "不正アクセスによる会員情報の一部流出で約2週間停止していたが、10月29日から一部の利用を再開した。",
-      "sourceName": "アニメ！アニメ！",
-      "url": "https://animeanime.jp/article/2026/10/30/104339.html"
+      "url": "https://anime.eiga.com/news/column/tiff2026_news/127774/"
     }
   ]
 }
