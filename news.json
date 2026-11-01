@@ -1,118 +1,54 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "note": "",
   "items": [
     {
-      "id": "2026-11-01-deathstranding",
-      "category": "other",
-      "title": "アニメ『DEATH STRANDING ISOLATIONS』シリーズ構成・脚本は冲方丁さん",
-      "summary": "小島秀夫さんのゲームと同じ世界のもうひとつの物語を描く新作シリーズ。2027年にディズニープラスで独占配信予定で、ティザー映像が公開された。",
-      "sourceName": "アニメハック",
-      "url": "https://anime.eiga.com/news/127764/"
-    },
-    {
-      "id": "2026-11-01-vanguard",
-      "category": "other",
-      "title": "新作TVアニメ『カードファイト!! ヴァンガード ベールリフト』が2027年放送",
-      "summary": "伊藤彰さんがキャラクター原案とストーリー原案を担当し、制作はキネマシトラス。詳細は12月7日に発表される。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/10/31/cardfight-vanguard-announces-veil-lift-anime-2nd-season-of-ghost-meets-gal/"
-    },
-    {
-      "id": "2026-11-01-rakuen",
-      "category": "other",
-      "title": "『楽園追放 心のレゾナンス』完成披露、虚淵玄さんらが登壇",
-      "summary": "約12年ぶりの続編で11月13日公開。佐倉綾音さんら声優陣と水島精二監督が登壇し、4DX・ドルビーシネマ版の上映も決まった。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261031dog00m200022000a.html"
-    },
-    {
-      "id": "2026-11-01-bebop",
-      "category": "other",
-      "title": "『COWBOY BEBOP 天国の扉』4Kリマスター版の公開記念舞台あいさつ",
-      "summary": "渡辺信一郎監督と山寺宏一さんが登壇し、スパイクの声が人気の理由だという話や、ゲストキャラ誕生の裏話を語った。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261031dog00m200010000a.html"
-    },
-    {
-      "id": "2026-11-01-kuromi",
-      "category": "other",
-      "title": "サンリオのクロミが主役の映画が2027年に公開",
-      "summary": "クロミを主人公にした映画の公開が発表され、メッセージビデオも公開された。",
-      "sourceName": "アニメハック",
-      "url": "https://anime.eiga.com/news/127763/"
-    },
-    {
-      "id": "2026-11-01-romelia",
-      "category": "other",
-      "title": "『ロメリア戦記』第2クールは2027年4月放送、EDは下野紘さん",
-      "summary": "10月から放送中の作品の分割2クール目。制作はAtra。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/10/31/romelia-war-chronicle-2nd-cour-debuts-in-april-2027-announces-hiro-shimono-ending-theme/"
-    },
-    {
-      "id": "2026-11-01-aobuta-song",
+      "id": "2026-11-02-bocchi",
       "category": "pickup",
-      "title": "『青ブタ』完結記念曲「不可思議のカルテ finale」配信開始",
-      "summary": "歴代ヒロインたちが歌う完結記念曲。湘南・横浜を舞台にヒロインたちが登場するMVも公開された。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200123000a.html"
+      "title": "『ぼっち・ざ・ろっく！』星歌と虹夏の映画『星のあしあと』が2027年公開",
+      "summary": "若き日の星歌と虹夏、姉妹の夢を描く前日譚。監督は若林信さん、キャラクターデザインは堀口悠紀子さん、脚本は吉田恵里香さんで、制作はCloverWorks。ティザービジュアルと特報も公開された。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/11/01/bocchi-the-rock-prequel-movie-about-seika-and-nijika-to-premiere-in-2027/"
     },
     {
-      "id": "2026-11-01-jujutsu",
+      "id": "2026-11-02-shibatsuki",
       "category": "other",
-      "title": "『呪術廻戦』死滅回游 前編の描き下ろしキャラクタービジュアル13種",
-      "summary": "虎杖や伏黒、乙骨とリカ、宿儺など、前編で活躍したキャラの新しい表情を描いたビジュアルが公開された。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200098000a.html"
-    },
-    {
-      "id": "2026-11-01-isshiki",
-      "category": "other",
-      "title": "『一式さんは恋を知りたい。』OPテーマはえなこさん",
-      "summary": "オープニングテーマを使った新しいPVが公開された。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261031dog00m200026000a.html"
-    },
-    {
-      "id": "2026-11-01-grotesque",
-      "category": "pickup",
-      "title": "『GROTESQQQUE -グロテスク-』錦織敦史監督インタビュー",
-      "summary": "11月6日公開のオリジナル劇場アニメについて、監督が作品づくりを語っている。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261010dog00m200000000a.html"
-    },
-    {
-      "id": "2026-11-01-billy",
-      "category": "other",
-      "title": "生田斗真さんがディズニー最新作『ビリーと魔法のはじまり』の声優に",
-      "summary": "ハロウィンイベントで日本版声優への起用が発表された。",
+      "title": "『シバつき物件』2027年夏にTVアニメ化",
+      "summary": "少年ジャンプ＋連載作。地縛霊の柴犬・むう役は田村睦心さん、百瀬氷役は中林新夏さん。監督はヤマサキオサムさん、制作はトムス・エンタテインメント。",
       "sourceName": "アニメハック",
-      "url": "https://anime.eiga.com/news/127750/"
+      "url": "https://anime.eiga.com/news/127767/"
     },
     {
-      "id": "2026-11-01-kazewo",
+      "id": "2026-11-02-charisma",
       "category": "other",
-      "title": "『風を継ぐもの』に追加キャスト、成井豊さんのノベライズも発売決定",
-      "summary": "アニメの追加キャストが発表され、成井豊さん書き下ろしの小説版も出る。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261030dog00m200062000a.html"
+      "title": "TVアニメ『カリスマ』は2027年1月7日からTBS系で放送",
+      "summary": "制作はPIERROT FILMS。立花慎之介さんらの追加キャストとティザーPVが公開され、11月4日からは『よるのブランチ』内でショートアニメも始まる。",
+      "sourceName": "電撃オンライン",
+      "url": "https://dengekionline.com/article/202611/92771"
     },
     {
-      "id": "2026-11-01-shimono",
+      "id": "2026-11-02-jujutsu-ten",
       "category": "other",
-      "title": "下野紘さんがアーティスト活動を再開",
-      "summary": "声優の下野紘さんが、アーティストとしての活動を再開すると発表した。",
-      "sourceName": "MANTANWEB",
-      "url": "https://mantan-web.jp/article/20261031dog00m200024000a.html"
-    },
-    {
-      "id": "2026-11-01-seizu",
-      "category": "other",
-      "title": "東京国際映画祭で上映、制作10年のシンガポールのアニメ『魔法の星図』",
-      "summary": "映画と美術の境界を超えた作品で、三上寛さんの楽曲を使った理由を監督が語っている。",
+      "title": "「呪術廻戦 完結展」にスピンオフ『呪術廻戦 ≡』の展示を追加",
+      "summary": "12月25日から新宿で開催。芥見下々さんのネームやキャラクターデザイン原案から創作の過程を解説し、音声ガイドも追加される。",
       "sourceName": "アニメハック",
-      "url": "https://anime.eiga.com/news/column/tiff2026_news/127774/"
+      "url": "https://anime.eiga.com/news/127733/"
+    },
+    {
+      "id": "2026-11-02-bs12",
+      "category": "other",
+      "title": "BS12「日曜アニメ劇場」11月は押井守作品など4本",
+      "summary": "『幻魔大戦』、『攻殻機動隊』4Kリマスター版、『イノセンス』、『ボトムズ ペールゼン・ファイルズ』劇場版を毎週日曜19時に放送。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127758/"
+    },
+    {
+      "id": "2026-11-02-chomet",
+      "category": "other",
+      "title": "シルバン・ショメ監督の新作『マルセル＆ムッシュ・パニョル』本編映像",
+      "summary": "フランスの国民的作家パニョルの人生と少年時代を描くアニメーション映画の本編映像が公開された。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127719/"
     }
   ]
 }
