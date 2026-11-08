@@ -1,102 +1,110 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "note": "",
   "items": [
     {
-      "id": "2026-11-08-bless",
+      "id": "2026-11-09-spyfamily",
+      "category": "other",
+      "title": "『SPY×FAMILY』TVアニメSeason 4が2027年放送、劇場版第2弾も2027年公開",
+      "summary": "11月8日のスペシャルイベントで発表。フォージャー家がそろった描き下ろしのティザービジュアルも公開された。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1794127231"
+    },
+    {
+      "id": "2026-11-09-minamike",
+      "category": "other",
+      "title": "14年ぶりの新シリーズ『みなみけ これから』は2027年4月放送",
+      "summary": "佐藤利奈さん、井上麻里奈さん、茅原実里さんら過去シリーズのキャストが続投。三姉妹がジャンプするティザービジュアルとティザーPVが公開された。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1794109255"
+    },
+    {
+      "id": "2026-11-09-yamato3199",
+      "category": "other",
+      "title": "『ヤマトよ永遠に REBEL3199』最終章、“同期組”がそろった舞台あいさつ",
+      "summary": "教官役の鳥海浩輔さんも加わり、同窓会のような雰囲気に。畠中祐さんは最終章を見て「涙が止まらなかった」と語った。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261108dog00m200023000a.html"
+    },
+    {
+      "id": "2026-11-09-bokusuki",
+      "category": "other",
+      "title": "『ぼくの好きな人が好きな人』2027年4月放送、出演は梶原岳人さんら",
+      "summary": "葵せきなさん原作のマンガをアニメ化。三川華月さん、稗田寧々さんも出演し、ティザービジュアルとPVが公開された。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1794139547"
+    },
+    {
+      "id": "2026-11-09-votoms-oshii",
       "category": "pickup",
-      "title": "『ブレス』は2027年1月8日からノイタミナで放送",
-      "summary": "メイクアップを題材にした園山ゆきのさんのマンガが原作。キービジュアルとPV第1弾が公開され、エンディングテーマはHIKKAさんの「New Page」。制作はA-1 Pictures。",
+      "title": "『装甲騎兵ボトムズ 灰色の魔女』押井守監督が女性主人公にした理由を語る",
+      "summary": "「魔女の物語」なら「女と女」のほうがドラマが煮詰まると判断したという。前編は11月20日公開。",
       "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261106dog00m200097000a.html"
+      "url": "https://mantan-web.jp/article/20261108dog00m200010000a.html"
     },
     {
-      "id": "2026-11-08-onepunch3",
+      "id": "2026-11-09-houkago-idol",
       "category": "other",
-      "title": "『ワンパンマン』第3期第2クールは2027年1月放送、EDはサイタマ役・古川慎さん",
-      "summary": "古川さんが作詞も手がけたエンディング曲「惑星の片隅」に決定。OPは引き続きJAM Projectで、サイタマやガロウたちの新ビジュアルも公開された。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261107dog00m200008000a.html"
-    },
-    {
-      "id": "2026-11-08-paradoxlive",
-      "category": "other",
-      "title": "『Paradox Live THE MOVIE』2027年公開決定",
-      "summary": "シリーズ初の劇場アニメで、各チームのリーダーが並ぶ超ティザービジュアルとロゴが公開された。新曲MVや2027年6月のライブ開催も発表。",
+      "title": "『放課後のアイドルには秘密がある』EDテーマ公開、追加キャスト3人も発表",
+      "summary": "2027年4月放送。EDは藍色インパルスの「なりたいわたし」で、小澤愛実さんらが新たに出演する。",
       "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1793955241"
+      "url": "https://www.animatetimes.com/news/details.php?id=1794115276"
     },
     {
-      "id": "2026-11-08-shanfro3",
-      "category": "other",
-      "title": "『シャングリラ・フロンティア』3rd seasonは2027年1月10日放送開始",
-      "summary": "全米最強チームとのエキシビジョンマッチ第2戦のビジュアルと、インタビュー動画が公開された。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1793940378"
-    },
-    {
-      "id": "2026-11-08-takopi",
-      "category": "other",
-      "title": "劇場版『タコピーの原罪』小原好美さんと永瀬アンナさんが登壇",
-      "summary": "11月27日公開の劇場版は、配信版を再編集して新規シーンを加えたもの。アフレコ現場の空気が「暗かった」という裏話も飛び出した。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261107dog00m200030000a.html"
-    },
-    {
-      "id": "2026-11-08-kizuguchi",
-      "category": "other",
-      "title": "『傷口と包帯』2027年1月放送、メインPVとキービジュアル公開",
-      "summary": "J.C.STAFF制作のラブコメ。オープニング曲はMIYAVIさんの「Show Me All Your Pain」で、杉田智和さんがナレーションを担当する。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/06/wound-bandage-reveals-main-trailer-key-visual/"
-    },
-    {
-      "id": "2026-11-08-rakuen-lf",
-      "category": "other",
-      "title": "劇場版『楽園追放 心のレゾナンス』4DXとDolby Cinemaでも11月13日から上映",
-      "summary": "通常版と同じ初日からラージフォーマットで上映され、それぞれ専用のポスタービジュアルが公開された。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1793960895"
-    },
-    {
-      "id": "2026-11-08-eva-sasuke",
-      "category": "other",
-      "title": "『エヴァンゲリオン』と『SASUKE』のコラボが決定",
-      "summary": "初号機カラーの「SASUKE」ロゴが公開された。詳細は今後発表される。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261106dog00m200096000a.html"
-    },
-    {
-      "id": "2026-11-08-votoms",
-      "category": "other",
-      "title": "『装甲騎兵ボトムズ 灰色の魔女』上坂すみれさんの世界観解説動画が公開",
-      "summary": "押井守監督による約15年ぶりの新作。全2部作で、第1作は11月20日に公開される。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261107dog00m200016000a.html"
-    },
-    {
-      "id": "2026-11-08-lulutto",
+      "id": "2026-11-09-rayearth",
       "category": "pickup",
-      "title": "『魔法の姉妹ルルットリリィ』道解慎太郎監督×新房昭之さん対談",
-      "summary": "いまの時代に魔法少女ものをどう作るか、スタッフとの組み方、デジタル時代の演出について語り合っている。",
+      "title": "新『魔法騎士レイアース』魔神デザインの牟田口裕基さんインタビュー",
+      "summary": "平成版アニメの骨格と原作の装飾をどう組み合わせたか、CGでの表現や3体の魔神の個性づけについて語っている。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261104dog00m200051000a.html"
+    },
+    {
+      "id": "2026-11-09-bistro",
+      "category": "other",
+      "title": "『ビストロボイス』に花澤香菜さんと榊原良子さんが出演",
+      "summary": "11月14日と21日の2週連続放送。『PSYCHO-PASS』での共演秘話や、それぞれの声の見つけ方が語られる。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261107dog00m200010000a.html"
+    },
+    {
+      "id": "2026-11-09-blackclover",
+      "category": "other",
+      "title": "『ブラッククローバー 2nd Season』ノエルの最恐バトルビジュアルが公開",
+      "summary": "宿敵ヴァニカに挑む瞬間を描いたもの。ヴァニカに憑く悪魔メギキュラのキャストも紹介された。",
       "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1793162737"
+      "url": "https://www.animatetimes.com/news/details.php?id=1794058453"
     },
     {
-      "id": "2026-11-08-aobuta",
+      "id": "2026-11-09-paradoxlive-agf",
       "category": "other",
-      "title": "シリーズ完結作『青春ブタ野郎はディアフレンドの夢を見ない』の本編映像が公開",
-      "summary": "上映中の劇場版から、本編映像の一部がYouTubeで特別公開された。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261106dog00m200098000a.html"
+      "title": "AGF2026『Paradox Live』ステージで新チームILLGATORのキャストが初登壇",
+      "summary": "新曲「怠。」を生で初披露。収録CDは11月18日発売。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1794122764"
     },
     {
-      "id": "2026-11-08-sentochihiro",
+      "id": "2026-11-09-dbs-bills",
       "category": "other",
-      "title": "舞台『千と千尋の神隠し』ワールドツアーの全キャストが発表",
-      "summary": "台北公演は12月17日開幕、2027年春には明治座での公演も行われる。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261106dog00m200075000a.html"
+      "title": "『ドラゴンボール超 ビルス』ED担当、ビッケブランカさんインタビュー",
+      "summary": "エンディング曲「完璧のペキ」に込めた思いや、ベジータの描かれ方について語っている。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1793064707"
+    },
+    {
+      "id": "2026-11-09-romelia",
+      "category": "other",
+      "title": "『ロメリア戦記』小笠原仁さん×大野智敬さんインタビュー",
+      "summary": "アル役とレイ役の二人が、キャラクターの解釈やロメリアの魅力を語っている。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1793864889"
+    },
+    {
+      "id": "2026-11-09-milky",
+      "category": "other",
+      "title": "『ミルキー☆バイウェイ』チハルとマキナのキャラクタービジュアルが公開",
+      "summary": "亀山陽平さんが手がける新作ショートアニメで、現在制作中。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1794051892"
     }
   ]
 }
