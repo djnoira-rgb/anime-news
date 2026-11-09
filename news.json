@@ -1,110 +1,78 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "note": "",
   "items": [
     {
-      "id": "2026-11-09-spyfamily",
+      "id": "2026-11-10-chiikawa-boxoffice",
       "category": "other",
-      "title": "『SPY×FAMILY』TVアニメSeason 4が2027年放送、劇場版第2弾も2027年公開",
-      "summary": "11月8日のスペシャルイベントで発表。フォージャー家がそろった描き下ろしのティザービジュアルも公開された。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1794127231"
-    },
-    {
-      "id": "2026-11-09-minamike",
-      "category": "other",
-      "title": "14年ぶりの新シリーズ『みなみけ これから』は2027年4月放送",
-      "summary": "佐藤利奈さん、井上麻里奈さん、茅原実里さんら過去シリーズのキャストが続投。三姉妹がジャンプするティザービジュアルとティザーPVが公開された。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1794109255"
-    },
-    {
-      "id": "2026-11-09-yamato3199",
-      "category": "other",
-      "title": "『ヤマトよ永遠に REBEL3199』最終章、“同期組”がそろった舞台あいさつ",
-      "summary": "教官役の鳥海浩輔さんも加わり、同窓会のような雰囲気に。畠中祐さんは最終章を見て「涙が止まらなかった」と語った。",
+      "title": "『映画ちいかわ 人魚の島のひみつ』興行収入187億円を突破",
+      "summary": "7月24日の公開から108日間で、観客動員は1286万人を超えた。",
       "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261108dog00m200023000a.html"
+      "url": "https://mantan-web.jp/article/20261109dog00m200043000a.html"
     },
     {
-      "id": "2026-11-09-bokusuki",
+      "id": "2026-11-10-hirayasumi",
       "category": "other",
-      "title": "『ぼくの好きな人が好きな人』2027年4月放送、出演は梶原岳人さんら",
-      "summary": "葵せきなさん原作のマンガをアニメ化。三川華月さん、稗田寧々さんも出演し、ティザービジュアルとPVが公開された。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1794139547"
+      "title": "『ひらやすみ』は2027年1月放送、Netflixで世界配信も",
+      "summary": "オープニング主題歌は星野源さん。監督は末澤慶さん、制作はProduction +h.で、内田雄馬さんが主人公のヒロトを演じる。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/11/08/hirayasumi-gets-worldwide-netflix-release-gen-hoshino-opening-song/"
     },
     {
-      "id": "2026-11-09-votoms-oshii",
+      "id": "2026-11-10-yuukawa2",
+      "category": "other",
+      "title": "『勇者パーティーにかわいい子がいたので、告白してみた。』第2期の制作が決定",
+      "summary": "1月から3月まで放送されたTVアニメの続編。天﨑滉平さん、花澤香菜さんらメインキャストが続投する。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1793931204"
+    },
+    {
+      "id": "2026-11-10-33sai",
+      "category": "other",
+      "title": "『33歳独身女騎士隊長。』アニメ化決定",
+      "summary": "『異種族レビュアーズ』の天原さんによるマンガが原作。連載10周年にあわせて、ロゴとキャラクターデザイン、記念MVが公開された。",
+      "sourceName": "PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000034227.html"
+    },
+    {
+      "id": "2026-11-10-kekkaishi-ichirinka",
+      "category": "other",
+      "title": "『結界師の一輪華』2027年1月放送、主人公2人のキャラクターPVが公開",
+      "summary": "鬼頭明里さんが一瀬華を、斗威さんが一ノ宮朔を演じる。制作はトロイカ。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/11/09/bride-of-the-barrier-master-highlights-main-leads-in-character-trailers/"
+    },
+    {
+      "id": "2026-11-10-makimodoshi",
+      "category": "other",
+      "title": "『運命の巻戻士』クロノたちの新キャラクタービジュアルが公開",
+      "summary": "2027年4月からテレビ朝日系の土曜23時30分枠で放送。出演は小村将さん、内山昂輝さん、天﨑滉平さん、上田麗奈さん。",
+      "sourceName": "アニメイトタイムズ",
+      "url": "https://www.animatetimes.com/news/details.php?id=1794209099"
+    },
+    {
+      "id": "2026-11-10-mononoke3",
       "category": "pickup",
-      "title": "『装甲騎兵ボトムズ 灰色の魔女』押井守監督が女性主人公にした理由を語る",
-      "summary": "「魔女の物語」なら「女と女」のほうがドラマが煮詰まると判断したという。前編は11月20日公開。",
+      "title": "『劇場版モノノケ 第三章』中村健治監督インタビュー",
+      "summary": "三部作の完結編で、大奥の頂点を描いた理由や蛇神の成り立ち、2人の薬売りを同時に登場させた狙いを語っている。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/11/09/kenji-nakamura-on-the-medicine-sellers-most-dangerous-monster-in-mononoke-the-movie-chapter-iii-the-curse-of-the-serpent/"
+    },
+    {
+      "id": "2026-11-10-sbr8",
+      "category": "other",
+      "title": "『スティール・ボール・ラン』第8話「牙（タスク） その（2）」",
+      "summary": "新たな力“タスク”に目覚めたジョニィが、捕らわれたジャイロを救うため反撃に出る。",
       "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261108dog00m200010000a.html"
+      "url": "https://mantan-web.jp/article/20261109dog00m200052000a.html"
     },
     {
-      "id": "2026-11-09-houkago-idol",
+      "id": "2026-11-10-nia",
       "category": "other",
-      "title": "『放課後のアイドルには秘密がある』EDテーマ公開、追加キャスト3人も発表",
-      "summary": "2027年4月放送。EDは藍色インパルスの「なりたいわたし」で、小澤愛実さんらが新たに出演する。",
+      "title": "『凶乱令嬢ニア・リストン』ニア役・井上ほの花さんインタビュー",
+      "summary": "オーディションで「サイコパスにはしないで」と言われた役を、どう楽しく演じたかを語っている。",
       "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1794115276"
-    },
-    {
-      "id": "2026-11-09-rayearth",
-      "category": "pickup",
-      "title": "新『魔法騎士レイアース』魔神デザインの牟田口裕基さんインタビュー",
-      "summary": "平成版アニメの骨格と原作の装飾をどう組み合わせたか、CGでの表現や3体の魔神の個性づけについて語っている。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261104dog00m200051000a.html"
-    },
-    {
-      "id": "2026-11-09-bistro",
-      "category": "other",
-      "title": "『ビストロボイス』に花澤香菜さんと榊原良子さんが出演",
-      "summary": "11月14日と21日の2週連続放送。『PSYCHO-PASS』での共演秘話や、それぞれの声の見つけ方が語られる。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261107dog00m200010000a.html"
-    },
-    {
-      "id": "2026-11-09-blackclover",
-      "category": "other",
-      "title": "『ブラッククローバー 2nd Season』ノエルの最恐バトルビジュアルが公開",
-      "summary": "宿敵ヴァニカに挑む瞬間を描いたもの。ヴァニカに憑く悪魔メギキュラのキャストも紹介された。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1794058453"
-    },
-    {
-      "id": "2026-11-09-paradoxlive-agf",
-      "category": "other",
-      "title": "AGF2026『Paradox Live』ステージで新チームILLGATORのキャストが初登壇",
-      "summary": "新曲「怠。」を生で初披露。収録CDは11月18日発売。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1794122764"
-    },
-    {
-      "id": "2026-11-09-dbs-bills",
-      "category": "other",
-      "title": "『ドラゴンボール超 ビルス』ED担当、ビッケブランカさんインタビュー",
-      "summary": "エンディング曲「完璧のペキ」に込めた思いや、ベジータの描かれ方について語っている。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1793064707"
-    },
-    {
-      "id": "2026-11-09-romelia",
-      "category": "other",
-      "title": "『ロメリア戦記』小笠原仁さん×大野智敬さんインタビュー",
-      "summary": "アル役とレイ役の二人が、キャラクターの解釈やロメリアの魅力を語っている。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1793864889"
-    },
-    {
-      "id": "2026-11-09-milky",
-      "category": "other",
-      "title": "『ミルキー☆バイウェイ』チハルとマキナのキャラクタービジュアルが公開",
-      "summary": "亀山陽平さんが手がける新作ショートアニメで、現在制作中。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1794051892"
+      "url": "https://www.animatetimes.com/news/details.php?id=1793603748"
     }
   ]
 }
