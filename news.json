@@ -1,78 +1,126 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-20",
   "note": "",
   "items": [
     {
-      "id": "2026-11-10-chiikawa-boxoffice",
+      "id": "2026-11-20-rezero5",
       "category": "other",
-      "title": "『映画ちいかわ 人魚の島のひみつ』興行収入187億円を突破",
-      "summary": "7月24日の公開から108日間で、観客動員は1286万人を超えた。",
+      "title": "『Re:ゼロから始める異世界生活』第5期の制作が決定",
+      "summary": "アニメ10周年記念イベントで発表され、ティザービジュアルも公開された。イベントでは水瀬いのりさんらが、第1期のころのレムやラムの“塩対応”を懐かしんだ。",
       "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261109dog00m200043000a.html"
+      "url": "https://mantan-web.jp/article/20261119dog00m200066000a.html"
     },
     {
-      "id": "2026-11-10-hirayasumi",
+      "id": "2026-11-20-sakadays2",
       "category": "other",
-      "title": "『ひらやすみ』は2027年1月放送、Netflixで世界配信も",
-      "summary": "オープニング主題歌は星野源さん。監督は末澤慶さん、制作はProduction +h.で、内田雄馬さんが主人公のヒロトを演じる。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/08/hirayasumi-gets-worldwide-netflix-release-gen-hoshino-opening-song/"
+      "title": "『SAKAMOTO DAYS』第2期は2027年1月18日放送開始、OPはCreepy Nuts",
+      "summary": "オープニング曲は「パパはいまだにJuvenile」。JCC潜入編を描くメインPV第1弾とキービジュアルが公開され、堀内賢雄さんの出演も決まった。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261118dog00m200012000a.html"
     },
     {
-      "id": "2026-11-10-yuukawa2",
+      "id": "2026-11-20-oishinbo",
       "category": "other",
-      "title": "『勇者パーティーにかわいい子がいたので、告白してみた。』第2期の制作が決定",
-      "summary": "1月から3月まで放送されたTVアニメの続編。天﨑滉平さん、花澤香菜さんらメインキャストが続投する。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1793931204"
+      "title": "35年ぶりの新作『新 美味しんぼ』は2027年1月4日放送開始",
+      "summary": "山岡を阿座上洋平さん、海原雄山を大塚明夫さんが演じ、“恋のライバル”団一郎役は小野大輔さん。メインPVとキービジュアルが公開された。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261118dog00m200072000a.html"
     },
     {
-      "id": "2026-11-10-33sai",
+      "id": "2026-11-20-spicewolf2",
       "category": "other",
-      "title": "『33歳独身女騎士隊長。』アニメ化決定",
-      "summary": "『異種族レビュアーズ』の天原さんによるマンガが原作。連載10周年にあわせて、ロゴとキャラクターデザイン、記念MVが公開された。",
-      "sourceName": "PR TIMES",
-      "url": "https://prtimes.jp/main/html/rd/p/000000004.000034227.html"
+      "title": "『狼と香辛料 MERCHANT MEETS THE WISE WOLF』第2期は2027年1月スタート",
+      "summary": "港町レノスが舞台の新章。キービジュアルが公開され、豊崎愛生さんらの出演も発表された。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261118dog00m200031000a.html"
     },
     {
-      "id": "2026-11-10-kekkaishi-ichirinka",
-      "category": "other",
-      "title": "『結界師の一輪華』2027年1月放送、主人公2人のキャラクターPVが公開",
-      "summary": "鬼頭明里さんが一瀬華を、斗威さんが一ノ宮朔を演じる。制作はトロイカ。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/09/bride-of-the-barrier-master-highlights-main-leads-in-character-trailers/"
-    },
-    {
-      "id": "2026-11-10-makimodoshi",
-      "category": "other",
-      "title": "『運命の巻戻士』クロノたちの新キャラクタービジュアルが公開",
-      "summary": "2027年4月からテレビ朝日系の土曜23時30分枠で放送。出演は小村将さん、内山昂輝さん、天﨑滉平さん、上田麗奈さん。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1794209099"
-    },
-    {
-      "id": "2026-11-10-mononoke3",
+      "id": "2026-11-20-votoms2",
       "category": "pickup",
-      "title": "『劇場版モノノケ 第三章』中村健治監督インタビュー",
-      "summary": "三部作の完結編で、大奥の頂点を描いた理由や蛇神の成り立ち、2人の薬売りを同時に登場させた狙いを語っている。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/09/kenji-nakamura-on-the-medicine-sellers-most-dangerous-monster-in-mononoke-the-movie-chapter-iii-the-curse-of-the-serpent/"
-    },
-    {
-      "id": "2026-11-10-sbr8",
-      "category": "other",
-      "title": "『スティール・ボール・ラン』第8話「牙（タスク） その（2）」",
-      "summary": "新たな力“タスク”に目覚めたジョニィが、捕らわれたジャイロを救うため反撃に出る。",
+      "title": "『装甲騎兵ボトムズ 灰色の魔女』第2作は2027年公開",
+      "summary": "第1作が11月20日に公開され、あわせて第2作のティザービジュアルも公開。デザートカラーのスコープドッグに乗るマキが描かれている。",
       "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261109dog00m200052000a.html"
+      "url": "https://mantan-web.jp/article/20261120dog00m200046000a.html"
     },
     {
-      "id": "2026-11-10-nia",
+      "id": "2026-11-20-yaiba2",
       "category": "other",
-      "title": "『凶乱令嬢ニア・リストン』ニア役・井上ほの花さんインタビュー",
-      "summary": "オーディションで「サイコパスにはしないで」と言われた役を、どう楽しく演じたかを語っている。",
-      "sourceName": "アニメイトタイムズ",
-      "url": "https://www.animatetimes.com/news/details.php?id=1793603748"
+      "title": "『真・侍伝 YAIBA』第2期「かぐや編」は2027年1月9日放送開始",
+      "summary": "物語の鍵を握るゲッコーを内田雄馬さんが演じる。OPはCHiCO with HoneyWorksの「CHASE！」。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261117dog00m200109000a.html"
+    },
+    {
+      "id": "2026-11-20-pentejo",
+      "category": "other",
+      "title": "『ペンと手錠と事実婚』は2027年1月9日放送開始",
+      "summary": "メインPVとビジュアルが公開され、追加キャストに小林裕介さん、諸星すみれさん、雨宮天さん。OPはヒロイン役の水瀬いのりさんが歌う。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/11/20/a-pen-handcuffs-and-a-common-law-marriage-begins-january-9-gets-main-trailer-and-visual/"
+    },
+    {
+      "id": "2026-11-20-kukuloop",
+      "category": "other",
+      "title": "『くくルプ』2027年TVアニメ化、主演は長谷川育美さんと浦和希さん",
+      "summary": "『99回断罪されたループ令嬢ですが今世は「超絶愛されモード」ですって！？』のアニメ化。制作は新風、ティザービジュアルも公開。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261118dog00m200048000a.html"
+    },
+    {
+      "id": "2026-11-20-tenseielf",
+      "category": "other",
+      "title": "『魔術を極めて旅に出た転生エルフ』は2027年1月6日放送開始",
+      "summary": "メインPVとメインビジュアルが公開された。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/11/19/majutsu-o-kiwamete-tabi-ni-deta-tensei-elf-reveals-january-6-2027-premiere-main-trailer-visual/"
+    },
+    {
+      "id": "2026-11-20-ossan-license",
+      "category": "other",
+      "title": "『冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する』1月7日放送開始",
+      "summary": "ダグラスを安元洋貴さん、ラビを井口裕香さんが演じる。メインPVとビジュアルが公開された。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/11/19/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-reveals-january-7-2027-start-main-trailer-and-visual/"
+    },
+    {
+      "id": "2026-11-20-nagainagaiyoru",
+      "category": "other",
+      "title": "韓国のベストセラー児童書『長い長い夜』が劇場アニメ化、2027年公開",
+      "summary": "地球最後のキタシロサイと赤ちゃんペンギンが一緒に旅をする物語。監督はヨム・ギュボクさん。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261117dog00m200083000a.html"
+    },
+    {
+      "id": "2026-11-20-keibo",
+      "category": "other",
+      "title": "『継母だけど娘が可愛すぎる』TVアニメ化が決定",
+      "summary": "ピッコマで人気の韓国発ウェブ小説が原作で、日本語版第10巻の発売にあわせて発表された。",
+      "sourceName": "AniTrendz",
+      "url": "https://anitrendz.net/news/2026/11/18/im-only-a-stepmother-but-my-daughter-is-just-so-cute-gets-tv-anime/"
+    },
+    {
+      "id": "2026-11-20-kusuriya56",
+      "category": "other",
+      "title": "『薬屋のひとりごと』第56話「麻と民間信仰」",
+      "summary": "西都へ向かう途中、猫猫と壬氏が宿場町で買い出しに出る。白蛇を神としてまつる町で、盗賊が出るといううわさを耳にする。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261119dog00m200060000a.html"
+    },
+    {
+      "id": "2026-11-20-inuboku15",
+      "category": "other",
+      "title": "『妖狐×僕SS』15周年記念ビジュアルが公開、1月8日から再放送",
+      "summary": "凜々蝶や双熾たちが華やかに描かれた記念ビジュアル。2027年1月8日から全12話を再放送する。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261118dog00m200032000a.html"
+    },
+    {
+      "id": "2026-11-20-kingdom",
+      "category": "other",
+      "title": "『キングダム』コミックス累計1億3000万部を突破",
+      "summary": "連載20周年の節目で、さらに大台を更新した。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261118dog00m200028000a.html"
     }
   ]
 }
