@@ -1,54 +1,78 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "note": "",
   "items": [
     {
-      "id": "2026-11-24-mahoakoga2",
+      "id": "2026-11-25-mahoyo-sequel",
       "category": "other",
-      "title": "『魔法少女にあこがれて Season 2』は2027年放送",
-      "summary": "マジアベーゼの誕生日に公開された動画で放送時期が発表された。ウルトラティザービジュアルと、和泉風花さん、古賀葵さんらメインキャスト8人のコメントも公開。",
+      "title": "劇場版『魔法使いの夜』の続編制作が決定",
+      "summary": "11月20日公開の本作は、4日間で興行収入5億円、観客動員30万人を突破。11月27日からは、ufotableのスタッフが描き下ろしたミニ色紙が入場者特典として配られる。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261124dog00m200104000a.html"
+    },
+    {
+      "id": "2026-11-25-sakadays-end",
+      "category": "other",
+      "title": "『SAKAMOTO DAYS』原作マンガが約6年の連載に幕",
+      "summary": "「週刊少年ジャンプ」52号で最終回を迎えた。コミックスは全31巻になる予定で、TVアニメ第2期は2027年1月から放送される。",
+      "sourceName": "Critical Hits",
+      "url": "https://criticalhits.com.br/anime/manga-de-sakamoto-days-chega-ao-fim-apos-seis-anos-de-publicacao/"
+    },
+    {
+      "id": "2026-11-25-weekend-ranking",
+      "category": "other",
+      "title": "週末アニメ映画ランキング、『魔法使いの夜』が2位、『ボトムズ 灰色の魔女』が3位で初登場",
+      "summary": "1位は3週連続で『ゴジラ－0.0』。『ボトムズ』は4日間で興行収入2億円、動員12万人だった。",
       "sourceName": "アニメハック",
-      "url": "https://anime.eiga.com/news/127886/"
+      "url": "https://anime.eiga.com/news/column/eiga_ranking/127924/"
     },
     {
-      "id": "2026-11-24-kanan2",
+      "id": "2026-11-25-bandori-yumemita",
       "category": "other",
-      "title": "『カナン様はあくまでチョロい 2 EASY』は2027年放送",
-      "summary": "第2期の追加キャストは松岡美里さん、伊藤美来さん、富田美憂さん、Lynnさん。",
-      "sourceName": "電撃オンライン",
-      "url": "https://dengekionline.com/article/202611/94295"
+      "title": "『BanG Dream! ゆめ∞みた』の新作アニメ制作が決定",
+      "summary": "7〜9月に放送されたTVアニメに続く新作で、「夢限大みゅーたいぷ」が引き続きメインで登場する。詳細は今後発表される。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127926/"
     },
     {
-      "id": "2026-11-24-aria-corto",
+      "id": "2026-11-25-twst-savanaclaw",
       "category": "other",
-      "title": "新作ショートアニメ『緋弾のアリアCorto』は2027年4月放送",
-      "summary": "釘宮理恵さん、真島淳二さんら2011年版のキャストが続投し、岩井映美里さんらが新キャラクターを演じる。キービジュアルも公開された。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/22/aria-the-scarlet-ammo-short-anime-reveals-key-visual-voice-cast-april-2027-premiere/"
+      "title": "『ツイステッドワンダーランド ザ アニメーション』新章「エピソード オブ サバナクロー」は12月23日から配信",
+      "summary": "Disney+で全8話を毎週配信。PVでは、マジフト大会を前に起きる連続負傷事故と、レオナの孤独な本心が描かれる。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261124dog00m200017000a.html"
     },
     {
-      "id": "2026-11-24-tanmoshi2",
-      "category": "other",
-      "title": "『探偵はもう、死んでいる。』第2期、次の章の新PVとビジュアルが公開",
-      "summary": "君彦、渚、ミアが描かれたビジュアル。第2期は10月から放送中。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/22/the-detective-is-already-dead-season-2-highlights-latest-arc-in-new-trailer-visual/"
-    },
-    {
-      "id": "2026-11-24-kanteiskill3",
-      "category": "other",
-      "title": "『転生貴族、鑑定スキルで成り上がる』第3期に永瀬アンナさん、鳥海浩輔さん、村瀬歩さんが出演",
-      "summary": "9月から放送中の第3期。新しいPVも公開された。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/22/as-a-reincarnated-aristocrat-season-3-reveals-new-trailer-additional-cast-members/"
-    },
-    {
-      "id": "2026-11-24-conan-frontier",
+      "id": "2026-11-25-lulutto-producer",
       "category": "pickup",
-      "title": "『名探偵コナン』北米シネマツアーの最後はAnime Frontierで上映、英語吹き替えのオーディションも",
-      "summary": "12月5日に『100万ドルの五稜星』を上映し、翌6日には公式英語吹き替えの公開オーディションが開かれる。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/22/detective-conan-cinema-tour-2026-will-finish-in-anime-frontier-special-screening-and-open-auditions/"
+      "title": "『魔法の姉妹ルルットリリィ』プロデューサーインタビュー",
+      "summary": "「クリィミーマミ」40周年をきっかけに生まれた、新しいぴえろ魔法少女シリーズ。“戦わない魔法少女”を守りつつ、姉妹を主人公にした理由などを語っている。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261120dog00m200097000a.html"
+    },
+    {
+      "id": "2026-11-25-zatsuyou",
+      "category": "other",
+      "title": "『雑用付与術師が自分の最強に気付くまで』は2027年1月4日放送、追加キャスト3人を発表",
+      "summary": "広瀬ゆうきさん、高森奈津美さん、貫井柚佳さんが出演。主人公ヴィムは川島零士さんが演じる。",
+      "sourceName": "まんたんウェブ",
+      "url": "https://mantan-web.jp/article/20261120dog00m200093000a.html"
+    },
+    {
+      "id": "2026-11-25-godzilla-doc",
+      "category": "other",
+      "title": "『ゴジラ－0.0』の制作に500日間密着したドキュメンタリーが11月27日からPrime Videoで配信",
+      "summary": "山崎貴監督が自らVFXを手がける現場や、白組のスタジオの様子まで記録されている。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127868/"
+    },
+    {
+      "id": "2026-11-25-billy",
+      "category": "other",
+      "title": "ディズニー最新作『ビリーと魔法のはじまり』日本版のヴィラン、セレステ女王役に鈴木保奈美さん",
+      "summary": "12月4日公開。“現代の高校生”が主人公の新しいディズニー作品で、側近ロニー役はコットンのきょんさん。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127902/"
     }
   ]
 }
