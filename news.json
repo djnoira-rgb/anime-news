@@ -1,78 +1,54 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "note": "",
   "items": [
     {
-      "id": "2026-11-26-pokemon-higedan",
+      "id": "2026-11-27-foolnight-start",
       "category": "other",
-      "title": "ポケモン×Official髭男dismのコラボMV、監督は山田尚子さん",
-      "summary": "新曲「エバーグリーン」を使ったポケモン30周年記念の特別映像で、制作はマッドハウス。11月30日23時からYouTubeでプレミア公開される。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261125dog00m200037000a.html"
+      "title": "Netflix『フールナイト』全12話の一挙配信がスタート",
+      "summary": "「ガンダム」のサンライズと「〈物語〉シリーズ」のシャフトが初めて組んだ話題作。飛田展男さん、小林由美子さん、矢島晶子さんの出演も発表され、山下清悟監督によるOP映像も公開された。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127911/"
     },
     {
-      "id": "2026-11-26-precure24",
+      "id": "2026-11-27-takopi-movie",
       "category": "other",
-      "title": "プリキュア第24弾のタイトルは『ファンたじっくプリキュア！』",
-      "summary": "キャッチフレーズは「かがやけ！みんなの笑顔！ファンたじっくなパーティーへようこそ！」。キャンディーやクラッカー、星をあしらったロゴも公開された。",
+      "title": "劇場版『タコピーの原罪 -ありがとう、また明日-』11月27日公開、上田麗奈さんらインタビュー",
+      "summary": "上田麗奈さん、小原好美さん、永瀬アンナさんが「この座組だから最後まで駆け抜けられた」と語っている。",
       "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261125dog00m200041000a.html"
+      "url": "https://mantan-web.jp/article/20261126dog00m200004000a.html"
     },
     {
-      "id": "2026-11-26-youchienwars",
+      "id": "2026-11-27-oishinbo-sp",
       "category": "other",
-      "title": "『幼稚園WARS』は2027年4月から放送、PVとメインビジュアルが公開",
-      "summary": "少年ジャンプ＋で連載中の千葉侑生さんのマンガが原作。元伝説の殺し屋リタが、要人の子どもが通う幼稚園で先生として子どもたちを守る。",
+      "title": "『新 美味しんぼ』物語の“原点”をまとめたスペシャル映像が公開",
+      "summary": "35年ぶりの続編で、リメイクではなく続きから始まる。新旧の山岡士郎役、井上和彦さんと阿座上洋平さんがメッセージを寄せた。",
+      "sourceName": "アニメハック",
+      "url": "https://anime.eiga.com/news/127951/"
+    },
+    {
+      "id": "2026-11-27-killershark",
+      "category": "other",
+      "title": "『異世界喰滅のサメ』TVアニメ化決定",
+      "summary": "魔王を倒すため召喚術を学んでいたシロミが、うっかり凶暴なサメを呼び出してしまう物語。監督は深瀬重さん、制作はスタジオリングス。",
       "sourceName": "AniTrendz",
-      "url": "https://www.anitrendz.com/news/2026/11/25/kindergarten-wars-gets-trailer-main-visual-april-2027-start"
+      "url": "https://anitrendz.net/news/2026/11/26/killer-shark-in-another-world-manga-gets-anime/"
     },
     {
-      "id": "2026-11-26-historie",
+      "id": "2026-11-27-trend-award",
       "category": "other",
-      "title": "『ヒストリエ』TVアニメは2027年1月8日放送開始、ナレーションは森山未來さん",
-      "summary": "原作マンガは約2年ぶりに新しい話が「アフタヌーン」に掲載され、2カ月連続で載る予定。",
+      "title": "「日本アニメトレンド大賞2026」に鈴代紗弓さん、夏吉ゆうこさん、関智一さんらが出演",
+      "summary": "今年4回目の開催で、ユーザー投票の結果も反映して各部門の大賞が決まる。MCはハライチの岩井勇気さん、上坂すみれさん、徳井青空さん。",
+      "sourceName": "とれまがニュース",
+      "url": "https://news.toremaga.com/entertainment/anime/4375571.html"
+    },
+    {
+      "id": "2026-11-27-kusuriya57",
+      "category": "other",
+      "title": "『薬屋のひとりごと』第57話「積み重なる問題」",
+      "summary": "壬氏の奥方選びが持ち上がるなか、危険な薬と謎の仙女の影が見えてくる。",
       "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261124dog00m200110000a.html"
-    },
-    {
-      "id": "2026-11-26-25ji-akasaka",
-      "category": "other",
-      "title": "BLマンガ『25時、赤坂で』2027年にTVアニメ化、TBSで放送",
-      "summary": "夏野寛子さんの「on BLUE」連載作。ドラマCDと同じく、斉藤壮馬さんが白崎を、佐藤拓也さんが羽山を演じる。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261125dog00m200048000a.html"
-    },
-    {
-      "id": "2026-11-26-himekishi",
-      "category": "other",
-      "title": "『姫騎士様のヒモ』は2027年1月3日放送開始",
-      "summary": "第2弾メインPVが公開され、広瀬裕也さん、石見舞菜香さん、若山詩音さん、大西沙織さんの出演が発表された。",
-      "sourceName": "AniTrendz",
-      "url": "https://www.anitrendz.com/news/2026/11/25/the-kept-man-of-the-princess-knight-begins-airing-on-january-3-2027"
-    },
-    {
-      "id": "2026-11-26-kakunaru",
-      "category": "other",
-      "title": "『描くなるうえは』は2027年1月8日放送開始、恋役は羊宮妃那さん",
-      "summary": "マンガ家どうしのラブコメ。メインPVとメインビジュアルが公開され、EDはInner Journeyの「セリフはいらない」に決まった。",
-      "sourceName": "AniTrendz",
-      "url": "https://www.anitrendz.com/news/2026/11/25/now-that-we-draw-reveals-main-trailer-and-visual-january-8-debut"
-    },
-    {
-      "id": "2026-11-26-ijihaji-cast",
-      "category": "other",
-      "title": "『いじはじ』PVとメインキャストが公開",
-      "summary": "主人公の日出幸太郎役は安田陸矢さん。幼なじみのヒロイン3人は前田佳織里さん、夏吉ゆうこさん、Lynnさんが演じる。2027年放送。",
-      "sourceName": "AniTrendz",
-      "url": "https://anitrendz.net/news/2026/11/23/ijihaji-anime-reveals-trailer-main-cast/"
-    },
-    {
-      "id": "2026-11-26-rayearth8",
-      "category": "other",
-      "title": "新『魔法騎士レイアース』第8話「真の魔法騎士」",
-      "summary": "ザガートの刺客として剣闘師ラファーガが現れる。光、海、風は、最後の魔神が眠る火山へ向かう。",
-      "sourceName": "まんたんウェブ",
-      "url": "https://mantan-web.jp/article/20261124dog00m200110000a.html"
+      "url": "https://mantan-web.jp/article/20261126dog00m200066000a.html"
     }
   ]
 }
